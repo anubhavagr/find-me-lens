@@ -20,8 +20,8 @@ The project is designed to provide a modular and extensible framework for image 
 ## 🔧 Installation and Setup
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/image-retrieval-cnn.git
-    cd image-retrieval-cnn
+    git clone https://github.com/anubhavagr/image-retrieval-cnn.git
+    cd image-retrieval-cnn/src
     ```
 
 2. **Set Up the Environment**:
@@ -50,7 +50,7 @@ The project is designed to provide a modular and extensible framework for image 
     │   ├── image3.jpg
     │   ├── image4.jpg
     ```
-    Then, run:
+    Then, run (Verify all paths in prepare_database.py and lens_all.py):
     ```bash
     python prepare_database_all.py
     ```
