@@ -101,5 +101,18 @@ The project is designed to provide a modular and extensible framework for image 
 
 ---
 
+## 🔗 References
+1. **FAISS: A Library for Efficient Similarity Search**:
+   - GitHub: [https://github.com/facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+   - Documentation: [https://faiss.ai/](https://faiss.ai/)
+2. **TorchVision Pretrained Models**:
+   - Documentation: [https://pytorch.org/vision/stable/models.html](https://pytorch.org/vision/stable/models.html)
+3. **Scikit-Learn for Evaluation Metrics**:
+   - Documentation: [https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics)
+4. **Tkinter GUI**:
+   - Python Docs: [https://docs.python.org/3/library/tkinter.html](https://docs.python.org/3/library/tkinter.html)
+
+---
+
 ## 🤝 Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
