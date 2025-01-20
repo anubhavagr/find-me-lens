@@ -103,8 +103,3 @@ The project is designed to provide a modular and extensible framework for image 
 
 ## 🤝 Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
----
-
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for details.
