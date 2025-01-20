@@ -1,4 +1,4 @@
-# Image Retrieval System with Multiple CNN Models
+# Real-time Image Retrieval System with Multiple CNN Models
 
 ## 🌟 About the Project
 This project implements a **content-based image retrieval (CBIR)** system using multiple deep learning models for feature extraction. 
