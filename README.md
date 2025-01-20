@@ -32,7 +32,7 @@ The project is designed to provide a modular and extensible framework for image 
 3. **Install FAISS**:
     - **GPU Version**:
         ```bash
-        pip install faiss-gpu
+        pip install faiss-gpu     #recommended
         ```
     - **CPU Version**:
         ```bash
